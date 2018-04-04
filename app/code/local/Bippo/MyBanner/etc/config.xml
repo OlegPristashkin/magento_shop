@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Bippo_MyBanner>
+            <version>1.0.0</version>
+        </Bippo_MyBanner>
+    </modules>
+    <frontend>
+        <routers>
+            <mybanner>
+                <use>standard</use>
+                <args>
+                    <module>Bippo_MyBanner</module>
+                    <frontName>mybanner</frontName>
+                </args>
+            </mybanner>
+        </routers>
+    </frontend>
+</config>

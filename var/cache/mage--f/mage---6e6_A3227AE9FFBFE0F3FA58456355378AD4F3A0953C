@@ -1,0 +1,160 @@
+<div class="widget widget-new-products">
+    <div class="widget-title">
+        <h2>New Products</h2>
+    </div>
+    <div class="widget-products">
+        
+        <div class="pager pager-no-toolbar">
+    
+        <div class="count-container">
+                                <p class="amount amount--has-pages">
+                1-5 of 10            </p>
+                    
+            </div>
+    
+        <div class="pages">
+        <strong>Page:</strong>
+        <ol>
+        
+        
+        
+                                    <li class="current">1</li>
+                                                <li><a href="http://dummy-host.example.com/index.php/?___SID=U&amp;np=2">2</a></li>
+                    
+
+        
+        
+                    <li>
+                <a class="next i-next" href="http://dummy-host.example.com/index.php/?___SID=U&amp;np=2" title="Next">
+                                            Next                                    </a>
+            </li>
+                </ol>
+
+    </div>
+    
+        </div>
+    
+                        <ul class="products-grid products-grid--max-4-col-widget">
+                            <li class="item last">
+                                                            <a href="http://dummy-host.example.com/index.php/tv-resiver-dvb-t2-ergo-1217-t2-1217.html?___SID=U" title="ТВ-ресивер DVB-T2 Ergo 1217 (T2 1217)" class="product-image">
+                        <img src="http://dummy-host.example.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/e/r/ergo_t2_1217_images_1789161600.jpg" alt="ТВ-ресивер DVB-T2 Ergo 1217 (T2 1217)" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://dummy-host.example.com/index.php/tv-resiver-dvb-t2-ergo-1217-t2-1217.html?___SID=U" title="ТВ-ресивер DVB-T2 Ergo 1217 (T2 1217)">ТВ-ресивер DVB-T2 Ergo 1217 (T2 1217)</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-17-widget-new-grid">
+                                            <span class="price">15,00 $</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://dummy-host.example.com/index.php/checkout/cart/add/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/product/17/form_key/tJXyyrFixg2xyWOR/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://dummy-host.example.com/index.php/wishlist/index/add/product/17/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://dummy-host.example.com/index.php/catalog/product_compare/add/product/17/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://dummy-host.example.com/index.php/tv-antenna-motylek-m-1.html?___SID=U" title="ТВ-антенна Мотылек M-1" class="product-image">
+                        <img src="http://dummy-host.example.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/b/u/butterfly_n1_images_846560700.jpg" alt="ТВ-антенна Мотылек M-1" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://dummy-host.example.com/index.php/tv-antenna-motylek-m-1.html?___SID=U" title="ТВ-антенна Мотылек M-1">ТВ-антенна Мотылек M-1</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-16-widget-new-grid">
+                                            <span class="price">11,00 $</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://dummy-host.example.com/index.php/checkout/cart/add/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/product/16/form_key/tJXyyrFixg2xyWOR/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://dummy-host.example.com/index.php/wishlist/index/add/product/16/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://dummy-host.example.com/index.php/catalog/product_compare/add/product/16/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://dummy-host.example.com/index.php/tv-antenna-eurosky-es-005a-black-podrobnee-https-rozetka-com-ua-32768967-p32768967.html?___SID=U" title="ТВ-антенна Eurosky ES-005A Black " class="product-image">
+                        <img src="http://dummy-host.example.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/3/2/32768967_images_3026843847.jpg" alt="ТВ-антенна Eurosky ES-005A Black " />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://dummy-host.example.com/index.php/tv-antenna-eurosky-es-005a-black-podrobnee-https-rozetka-com-ua-32768967-p32768967.html?___SID=U" title="ТВ-антенна Eurosky ES-005A Black ">ТВ-антенна Eurosky ES-005A Black </a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-15-widget-new-grid">
+                                            <span class="price">8,00 $</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://dummy-host.example.com/index.php/checkout/cart/add/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/product/15/form_key/tJXyyrFixg2xyWOR/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://dummy-host.example.com/index.php/wishlist/index/add/product/15/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://dummy-host.example.com/index.php/catalog/product_compare/add/product/15/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://dummy-host.example.com/index.php/vytjazhka-pyramida-tl-50-wh.html?___SID=U" title="Вытяжка Pyramida TL 50 WH" class="product-image">
+                        <img src="http://dummy-host.example.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/v/y/vytyazhka_pyramida_tl_50_wh.jpg" alt="Вытяжка Pyramida TL 50 WH" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://dummy-host.example.com/index.php/vytjazhka-pyramida-tl-50-wh.html?___SID=U" title="Вытяжка Pyramida TL 50 WH">Вытяжка Pyramida TL 50 WH</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-11-widget-new-grid">
+                                            <span class="price">80,00 $</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://dummy-host.example.com/index.php/checkout/cart/add/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/product/11/form_key/tJXyyrFixg2xyWOR/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://dummy-host.example.com/index.php/wishlist/index/add/product/11/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://dummy-host.example.com/index.php/catalog/product_compare/add/product/11/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                            <li class="item last">
+                                                            <a href="http://dummy-host.example.com/index.php/vytjazhka-eleyus-storm-380-60-is.html?___SID=U" title="Вытяжка Eleyus Storm 380 60 IS" class="product-image">
+                        <img src="http://dummy-host.example.com/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/v/y/vytyazhka_eleyus_storm_380_60_is.jpg" alt="Вытяжка Eleyus Storm 380 60 IS" />
+                    </a>
+                    <div class="product-info">
+                        <h3 class="product-name"><a href="http://dummy-host.example.com/index.php/vytjazhka-eleyus-storm-380-60-is.html?___SID=U" title="Вытяжка Eleyus Storm 380 60 IS">Вытяжка Eleyus Storm 380 60 IS</a></h3>
+                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-10-widget-new-grid">
+                                            <span class="price">60,00 $</span>                                    </span>
+                        
+        </div>
+
+                                                <div class="actions">
+                                                            <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('http://dummy-host.example.com/index.php/checkout/cart/add/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/product/10/form_key/tJXyyrFixg2xyWOR/?___SID=U')"><span><span>Add to Cart</span></span></button>
+                                                        <ul class="add-to-links">
+                                                                    <li><a href="http://dummy-host.example.com/index.php/wishlist/index/add/product/10/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                                    <li><span class="separator">|</span> <a href="http://dummy-host.example.com/index.php/catalog/product_compare/add/product/10/uenc/aHR0cDovL2R1bW15LWhvc3QuZXhhbXBsZS5jb20vaW5kZXgucGhwLw,,/form_key/tJXyyrFixg2xyWOR/?___SID=U" class="link-compare">Add to Compare</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+</div>
